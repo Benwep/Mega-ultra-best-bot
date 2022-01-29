@@ -10,7 +10,7 @@ DICES = {
     5: 'CAACAgIAAxkBAAMjYes-oVEP3rhyFFRtViiuWtfKJRwAAuDGAQABY4tGDEix8_rI_yapIwQ',
     6: 'CAACAgIAAxkBAAMkYes-qEmTabr-3fWMpH3plnss6gIAAuHGAQABY4tGDO-afM2nv7R6IwQ',
 }
-refuse = '1127593859'
+
 
 def roll_dice():
     dice_index = random.randint(1,6)
